@@ -25,7 +25,8 @@ def encoder(data):
     return text_out
 
 encod_text = encoder(text_in)
-print(encod_text)
+with open('encod.txt', 'w', encoding='UTF-8') as enc:
+    enc.write(encod_text)
 
 
 def decoder(data):
@@ -40,4 +41,6 @@ def decoder(data):
             count = ''
     return text_decod
 
-print(decoder(encod_text))
+decod_text = decoder(encod_text)
+with open('decod.txt', 'w', encoding='UTF-8') as dec:
+    dec.write(decod_text)
