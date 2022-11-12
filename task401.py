@@ -1,3 +1,5 @@
+# Вычислить число c заданной точностью d
+########################################
 from math import pi
 
 precision = input('Enter precision(number d) from 10**(-1) to 10**(-10): ') # 10^{-1} ≤ d ≤10^{-10}
