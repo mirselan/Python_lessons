@@ -1,0 +1,23 @@
+Record: Ivan ivanov +75893216974 frind -made at 2022.11.18/18:44
+Record: Petr Petrov +79852586314 friend -made at 2022.11.18/18:45
+Record: Fedor Sokolov +78992145533 job -made at 2022.11.18/18:46
+Record: Bill Gates +15892226947 Boss -made at 2022.11.18/18:47
+Record: Stive Jobs +15559413677 ExBoss -made at 2022.11.18/18:49
+Record: Tim Cook +18882269514 Boss -made at 2022.11.18/18:50
+Record: Sveta Ivanova +75556982133 girlfriend -made at 2022.11.18/18:52
+Record: Natasha Petrova +72643219977 job -made at 2022.11.18/18:53
+Record: Dasha Sidorova +76661583379 partner -made at 2022.11.18/18:54
+Request: Ivanova -made at 2022.11.18/18:55
+Request: Petrova -made at 2022.11.18/18:58
+Request: ivanov -made at 2022.11.18/19:03
+Request: Jobs -made at 2022.11.18/19:03
+Request: Cook -made at 2022.11.18/19:05
+Request: Jobs -made at 2022.11.18/19:06
+Request: Gates -made at 2022.11.18/19:06
+Request: Jobs -made at 2022.11.18/19:14
+Request: Gates -made at 2022.11.18/19:14
+Request: Cook -made at 2022.11.18/19:14
+Request: Sidorova -made at 2022.11.18/19:15
+Request: Petrova -made at 2022.11.18/19:15
+Request: Petrova -made at 2022.11.18/19:16
+Request: Ivanova -made at 2022.11.18/19:16
